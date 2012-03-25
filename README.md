@@ -10,3 +10,12 @@ $(document).ready(function(){
   $('.cross-fade').crossfade('sample-two.jpg');  
 });
 ```
+
+## Support
+
+Lightly browser tested in Chrome 16, Firefox 11, Internet Explorer 8
+
+### To-do
+* Handle various layout styles (adding margin to `<img>` acts funky )
+* Handle different speeds
+* Thorough browser testing
